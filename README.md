@@ -1,4 +1,4 @@
-##🎮 Game Recommendation System
+#🎮 Game Recommendation System
 
 # Overview
 This project is a Game Recommendation System built using the Steam 200k dataset. It recommends games to users based on their playing behavior using Collaborative Filtering techniques.
